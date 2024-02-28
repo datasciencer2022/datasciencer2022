@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou o Prof. Geraldo Cantelli e trabalho na Datasciencer.
+- 👋 Oi, eu sou o Prof. Geraldo Cesar Cantelli e trabalho na Datasciencer, no Centro Paula Souza e na Jala University.
 - 👀 Somos uma empresa de desenvolvimento de software e fornecimento de plataforma como serviço 
 - 🌱 Trabalhamos com Java, Perl, Python, R, enfim, quaisquer linguagens
 - 💞️ Trabalhamos para o setor acadêmico (graduandos, mestrandos, doutorandos, pos-docs) e setor empresarial
